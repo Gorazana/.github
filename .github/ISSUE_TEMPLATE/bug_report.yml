@@ -1,0 +1,46 @@
+name: Bug report
+description: Report a reproducible defect in a Gorazana package
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not report security vulnerabilities publicly. Follow SECURITY.md instead."
+  - type: input
+    id: version
+    attributes:
+      label: Package version or commit
+      placeholder: "v0.1.0 or commit SHA"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Go / Goravel / database versions
+      placeholder: "Go version, Goravel version and relevant drivers"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Minimal reproduction
+      description: "Exact setup and steps, without secrets or personal data"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior and logs
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Checks performed
+      description: "List any tests, CI runs or environment checks you performed"
