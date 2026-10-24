@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 set -euo pipefail
 # Requires: gh CLI, jq optional; an authenticated account with org repository-creation rights.
-ORG="Gorazana"
+ORG="gorazana"
 MODE="${1:---plan}"
 names=(
-  goravel-modules goravel-admin goravel-settings goravel-features
-  goravel-activitylog goravel-audit goravel-licensing
-  goravel-notifications goravel-workflows goravel-scheduler goravel-localization goravel-webhooks goravel-api
-  goravel-media goravel-documents goravel-search goravel-import-export goravel-backup goravel-sync
-  goravel-billing goravel-integrations goravel-ai goravel-observability
+  modules admin settings features
+  activitylog audit licensing
+  notifications workflows scheduler localization webhooks api
+  media documents search import-export backup sync
+  billing integrations ai observability
 )
 if [[ "$MODE" != "--plan" && "$MODE" != "--apply" ]]; then
   echo "Usage: $0 [--plan|--apply]" >&2; exit 2
@@ -27,5 +27,5 @@ for name in "${names[@]}"; do
   gh api -X PUT "repos/$ORG/$name/topics" -f 'names[]=goravel' -f 'names[]=golang' -f 'names[]=gorazana' >/dev/null || echo "WARNING: topics need review for $name" >&2
   echo "CREATED: $ORG/$name"
 done
-echo "Skeleton remains at elcomware/goravel-package-skeleton until an explicit history-preserving transfer."
+echo "Skeleton has been transferred to gorazana/package-skeleton. Complete its acceptance gates before initializing new packages."
 echo "Defender and Tenancy are deliberately excluded."
