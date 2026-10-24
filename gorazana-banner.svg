@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C2333"/><stop offset="1" stop-color="#174253"/></linearGradient><linearGradient id="teal" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#3ACCB4"/><stop offset="1" stop-color="#88E2CF"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<g stroke="#2D5E65" fill="none" opacity=".35"><path d="M910 0 1270 360M1070 0 1280 210M750 0 1110 360M1190 0 1280 90"/><circle cx="1100" cy="180" r="142"/><circle cx="1100" cy="180" r="201"/></g>
+<g transform="translate(72 76) scale(.208)"><path d="M725 315 632 408 A217 217 0 1 0 706 585" fill="none" stroke="url(#teal)" stroke-width="103" stroke-linecap="square" stroke-linejoin="miter"/><path d="M524 546 H726 V673" fill="none" stroke="url(#teal)" stroke-width="103" stroke-linecap="square" stroke-linejoin="miter"/><path d="M681 240 H784 V343" fill="none" stroke="#F1B75B" stroke-width="36" stroke-linecap="square"/></g>
+<text x="275" y="162" fill="#F2F8F6" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="73" letter-spacing="1">GORAZANA</text>
+<text x="279" y="211" fill="#8BDCC9" font-family="DejaVu Sans, sans-serif" font-size="25" letter-spacing="2">BUILD ON GORAVEL. OWN WHAT YOU BUILD.</text>
+<rect x="279" y="242" width="440" height="2" fill="#416876"/><text x="279" y="283" fill="#C5D8DD" font-family="DejaVu Sans, sans-serif" font-size="22">Open-source-minded tools  ·  Packages  ·  Modules</text>
+<path d="M1125 131h48v48h-48z M1187 189h48v48h-48z M1108 201h48v48h-48z" fill="none" stroke="#F1B75B" stroke-width="6" stroke-linejoin="miter" opacity=".8"/>
+</svg>
