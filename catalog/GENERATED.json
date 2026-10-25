@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "canonical_repository": "gorazana/ecosystem",
-  "catalog_sha256": "e9495a9d66939b3e72a793ef14d032726dbdffa0782b7efc2da826fb8a21edf7",
+  "catalog_sha256": "d8d749792f013eac20c87304e03251e5c2d76372e282e42eef92e7d31083ffd0",
   "files": {
-    "publishing/public/catalog/README.md": "3269c997ba166369cf8333f089835840b31738f054b531599f94f81b0a39513d",
+    "publishing/public/catalog/README.md": "4cd5696592d10c402f5c8439b5679c4c18774002b1c3daf4f1294dff8bcaa6b1",
     "publishing/public/catalog/assets/gallery.svg": "81702b9758824d5fc7d9e22c533a9ab2b80fd32fe4268a2d257b7c1aad9f774b",
     "publishing/public/catalog/assets/icons/accounting.svg": "47337bab4f4c8072570752417f5e07e488bb4d78cffa7f8c531a9adcea942f54",
     "publishing/public/catalog/assets/icons/accounts.svg": "afc7c1bc9db22ee49f05857342ec80e2ec6c43a32ba5c76f293e92282ccfa1bb",
