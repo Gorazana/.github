@@ -10,9 +10,11 @@ Reuse native Goravel infrastructure and compose focused capabilities. Choose man
 
 ## One catalog, one icon family
 
+[Visit the Gorazana showcase](https://gorazana.github.io/) for searchable components, real GitHub references, availability and version evidence.
+
 [Explore the public ecosystem catalog](https://github.com/gorazana/.github/blob/main/catalog/README.md) and [shared icons](https://github.com/gorazana/.github/blob/main/catalog/assets/gallery.svg). Both are generated from [Gorazana/ecosystem](https://github.com/gorazana/ecosystem), the canonical research repository (access may be required). No duplicated editable package list or roadmap is maintained here.
 
-**66 classified entries:** 28 reusable packages, 35 business modules, 2 development tools and **Gorazine**. Research entries are not released products.
+**80 classified entries:** 34 reusable packages, 42 business modules, 3 development tools and **Gorazine**. Research entries are not released products.
 
 **Gorazine** is the owner-named, Filament-inspired administration composition—not a replacement identity, tenant or business engine. **Gorazana Create** is the proposed premium-quality terminal application assembler: simple/API/full-stack profiles; Go HTML or verified Inertia Vue/React; Gorazana or custom providers; selected business modules.
 

@@ -36,6 +36,12 @@ Build on Goravel. Own what you build. This generated overview classifies researc
 | <img src="assets/icons/licensing.svg" width="34" alt="Licensing" /> | Licensing | Verify signed commercial entitlements, coordinate optional online activation and support explicit bounded offline operation without penalizing the free foundation. | Research specification |
 | <img src="assets/icons/secrets.svg" width="34" alt="Secrets" /> | Secrets | Provider-neutral secret references, leases and KMS/transit access through native host configuration and approved external drivers. | Research specification |
 | <img src="assets/icons/tenancy.svg" width="34" alt="Tenancy" /> | Tenancy | Host-admitted tenant lifecycle, resource isolation and guarded database placement operations. | Observed source; not release acceptance |
+| <img src="assets/icons/realtime.svg" width="34" alt="Realtime" /> | Realtime | Authorized live channels, presence and reconnect delivery for collaborative applications without replacing domain authority. | Research specification |
+| <img src="assets/icons/collaboration.svg" width="34" alt="Collaboration" /> | Collaboration | Shared editor sessions, changes and reviewable conflict recovery above a vetted collaboration engine. | Research specification |
+| <img src="assets/icons/geospatial.svg" width="34" alt="Geospatial" /> | Geospatial | Geometry, geographic queries and location policies for field, logistics and mapping applications. | Research specification |
+| <img src="assets/icons/metering.svg" width="34" alt="Metering" /> | Metering | Versioned, deduplicated usage measurements and reconciled aggregates independent of payment settlement. | Research specification |
+| <img src="assets/icons/rules.svg" width="34" alt="Rules" /> | Rules | Versioned, explainable business conditions with bounded evaluation and application-owned activation. | Research specification |
+| <img src="assets/icons/forms.svg" width="34" alt="Forms" /> | Forms | Versioned forms, validated submissions and review flows composed with domain-owned data policies. | Research specification |
 
 ## Business modules
 
@@ -76,6 +82,13 @@ Build on Goravel. Own what you build. This generated overview classifies researc
 | <img src="assets/icons/payroll.svg" width="34" alt="Payroll" /> | Payroll | Reviewed pay runs with explicit jurisdiction/rule adapters. | Research specification |
 | <img src="assets/icons/people.svg" width="34" alt="People" /> | People | Staff records and employment lifecycle, distinct from application login accounts. | Research specification |
 | <img src="assets/icons/timekeeping.svg" width="34" alt="Timekeeping" /> | Timekeeping | Approved work-time, attendance and allocation records. | Research specification |
+| <img src="assets/icons/privacy.svg" width="34" alt="Privacy" /> | Privacy | Consent, data inventories and verified rights-request workflows with jurisdiction-specific host policies. | Research specification |
+| <img src="assets/icons/devices.svg" width="34" alt="Devices" /> | Devices | Device enrollment, telemetry and command receipts with explicit trust and offline boundaries. | Research specification |
+| <img src="assets/icons/logistics.svg" width="34" alt="Logistics" /> | Logistics | Shipments, carrier observations and exception handling linked to authoritative orders and inventory. | Research specification |
+| <img src="assets/icons/manufacturing.svg" width="34" alt="Manufacturing" /> | Manufacturing | Versioned bills of materials, work orders and production evidence linked to stock and quality controls. | Research specification |
+| <img src="assets/icons/cases.svg" width="34" alt="Cases" /> | Cases | Case intake, evidence, assignments and disposition for human-led work that is not a fixed pipeline. | Research specification |
+| <img src="assets/icons/recruitment.svg" width="34" alt="Recruitment" /> | Recruitment | Vacancies, candidates and reviewable hiring stages separate from employee and login-account records. | Research specification |
+| <img src="assets/icons/experiments.svg" width="34" alt="Experiments" /> | Experiments | Governed product experiments with stable assignments, exposure receipts and defensible interpretation. | Research specification |
 
 ## Development tools
 
@@ -83,6 +96,7 @@ Build on Goravel. Own what you build. This generated overview classifies researc
 | --- | --- | --- | --- |
 | <img src="assets/icons/create.svg" width="34" alt="Gorazana Create" /> | Gorazana Create | Premium-quality terminal application assembler with simple/API/full-stack profiles, renderer choice and compatible native/Gorazana/custom providers. | Research specification |
 | <img src="assets/icons/package-skeleton.svg" width="34" alt="Package Skeleton" /> | Package Skeleton | Native package/module scaffolding, terminal setup, ownership and test conventions. | Observed source; not release acceptance |
+| <img src="assets/icons/testbench.svg" width="34" alt="Testbench" /> | Testbench | Repeatable conformance fixtures and evidence collection for Gorazana packages and application compositions. | Research specification |
 
 ## Application experiences
 
